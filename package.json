@@ -1,0 +1,13 @@
+{
+  "name": "fswatch",
+  "version": "1.0.0",
+  "description": "Watcher that listens for changes in menus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set NODE_DEBUG=debug && node index.js"
+  },
+  "author": "Cesar Contreras <ccdl15c@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
